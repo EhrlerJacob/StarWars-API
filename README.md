@@ -1,0 +1,1 @@
+This React app was created using Vite, styled with Bootstrap, and executed using Node.js and uses Axios for all of it's request to the Star Wars API at https://swapi.dev/, which is a RESTful API. 
